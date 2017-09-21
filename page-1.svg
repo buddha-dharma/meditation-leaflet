@@ -7,7 +7,10 @@
         version="1.1"
         id="svg1">
     <style type="text/css">
-    <![CDATA[
+      <![CDATA[
+     .heading {
+       font-size:8pt;
+     }
      .subheading {
        font-size:4pt;
      }
@@ -18,7 +21,7 @@
    </style>
    <line x1="33.33%" y1="0" x2="33.33%" y2="100%" style="stroke: #dde0dd;"></line>
    <line x1="66.66%" y1="0" x2="66.66%" y2="100%" style="stroke: #dde0dd;"></line>
-   <text x="1mm" y="5mm">3 Atemzüge</text>
+   <text class="heading" x="1mm" y="5mm">Drei Atemzüge</text>
    <text class="subheading" x="1mm" y="7mm">Für tiefe Konzentration und Zufriedenheit</text>
    <text class="normalText" x="1mm" y="12mm">
        <tspan x="1mm">Nutze diese einfache Übung um deine Konzentration und</tspan>
